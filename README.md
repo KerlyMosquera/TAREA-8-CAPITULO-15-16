@@ -71,7 +71,9 @@ el concepto de impedancia.
 ### 3.2.8 ANÁLISIS DE CIRCUITOS DE CA POR COMPUTADORA
 ## 4.CONCLUSIONES
 ## 4.1 FUNDAMENTOS DE CA 
+- 
 ## 4.2 ELEMENTOS R, L Y C Y EL CONCEPTO DE IMPEDANCIA 
 ## 5.VIDEO
 ## 6.BIBLIOGRAFÍA
-- 
+- Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cegange Learning.
+- Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed), * México DF ,México: Pearson Educación.
