@@ -249,6 +249,8 @@ es igual que el de una batería de 24 V?
 67. Dibuje la forma de onda del problema 41. Use el cursor para determinar los
 tiempos en los cuales v alcanza 0 V, 23 V y - 23V.
 
+![WhatsApp Image 2021-09-02 at 12 18 54 AM](https://user-images.githubusercontent.com/84458025/131786181-f9a6288f-1d1a-457e-921a-8ab4113649be.jpeg)
+
 ## 3.2 ELEMENTOS R, L Y C Y EL CONCEPTO DE IMPEDANCIA 
 ### 3.2.1 REPASO DE NÚMEROS COMPLEJOS 
 1. Convierta cada uno de los siguientes números a forma polar:
@@ -263,13 +265,186 @@ tiempos en los cuales v alcanza 0 V, 23 V y - 23V.
 
 ![3 3 (2)](https://user-images.githubusercontent.com/84431598/131699884-0be6e971-9580-4228-848c-1fc841b52977.png)
 
+5. Exprese sus respuestas en forma rectangular.
+
+![5 1 (2)](https://user-images.githubusercontent.com/84458025/131780370-12ae9957-e9f0-48b4-a731-3388f2aeee90.png)
+
+![5 2 (2)](https://user-images.githubusercontent.com/84458025/131780477-8ca8b527-34a1-4d12-90f1-a4c2159d4847.png)
+
+7. Reduzca cada corriente siguiente a forma polar:
+
+![7 1 (2)](https://user-images.githubusercontent.com/84458025/131780600-12a39dc1-2ddc-4d66-80f3-17deb9c52745.png)
+
+![7 2 (2)](https://user-images.githubusercontent.com/84458025/131780682-13e15977-3561-4edc-9674-4f71194584a6.png)
+
+![7 3 (2)](https://user-images.githubusercontent.com/84458025/131780760-a042e605-c0f1-4769-9f34-aecc90c3c478.png)
+
+![7 4 (2)](https://user-images.githubusercontent.com/84458025/131781136-af714bfa-623b-494c-87b2-2bd42e3a793c.png)
+
+![7 5 (2)](https://user-images.githubusercontent.com/84458025/131781104-3cf4a235-b96b-4f60-b621-3f2402a0e4d8.png)
+
+
 ### 3.2.2 NÚMEROS COMPLEJOS EN ANÁLISIS DE CA 
-### 3.2.3 CIRCUITOS R, L Y C CON EXCITACIÓN SINUSOIDAL 
-### 3.2.4 RESISTENCIA Y CA SINUSOIDAL 
-### 3.2.5 INDUCTANCIA Y CA SINUSOIDAL 
-### 3.2.6 CAPACITANCIA Y CA SINUSOIDAL 
+9. Determine el equivalente sinusoidal para cada una de las fuentes transformadas de la figura 16-48.
+
+![16-48 (2)](https://user-images.githubusercontent.com/84458025/131780846-950227c4-a12e-4267-9bd1-39419ad38f8d.png)
+
+![7 5 (3)](https://user-images.githubusercontent.com/84458025/131781179-d663593b-a9e5-4376-bf57-97dab1dc733f.png)
+
+11. Repita el problema 10 para v = e1 - e2.
+
+![11 1 (2)](https://user-images.githubusercontent.com/84458025/131781263-c571b9c2-4a72-4e91-9f48-fb45204c78ac.png)
+
+![11 2 (2)](https://user-images.githubusercontent.com/84458025/131781367-4837e776-a354-4fb4-8918-063eaf1dc21f.png)
+
+13. Para la figura 16-50, i_1=25 sin⁡〖(ωt+36°)mA e i_2=40〗  cos⁡〖(ωt-10°)mA.〗
+
+![16-50 (2)](https://user-images.githubusercontent.com/84458025/131781466-3d0ac697-48b5-47a4-a9c8-090e890a83c6.png)
+
+a. Determine los fasores I1, I2 e IT.
+
+![13 1 (2)](https://user-images.githubusercontent.com/84458025/131781546-cbf36808-851b-47d1-a75a-2338694f8b54.png)
+
+![13 2 (2)](https://user-images.githubusercontent.com/84458025/131781639-b9f6839f-540d-42bb-a3b6-0d607e2075b6.png)
+
+b. Determine la ecuación para I_T  en el dominio del tiempo.
+
+![13 2 (3)](https://user-images.githubusercontent.com/84458025/131781692-381c732e-4f1f-450f-8ac2-52c108d3cdbd.png)
+
+15. Para la figura 16-18, i_T=38.08 sin⁡〖(ωt-21.8°)mA e i_1=35.36 sin⁡〖ωt A e i_3=6〗 〗  sen⁡〖(ωt-90°)  A.〗
+
+![16-18 (2)](https://user-images.githubusercontent.com/84458025/131781872-c4be94c9-e7a0-44c6-b2d2-7395acbfc4b7.png)
+
+a. Determine los fasores I1, I2, I3 e IT
+
+![15 1 (2)](https://user-images.githubusercontent.com/84458025/131781996-c3c315f2-c7dd-4c9b-a6f1-9b11bbc3a5bf.png)
+
+![15 2 (2)](https://user-images.githubusercontent.com/84458025/131782121-774f4e14-f2b1-416e-9598-32b3fb6dbee7.png)
+
+b. Determine la ecuación para  en i_Tel dominio del tiempo.
+
+![15 2 (3)](https://user-images.githubusercontent.com/84458025/131782175-ea7d8411-18f4-4e7d-9c44-191a83b395e6.png)
+
+### 3.2.4-6 RESISTENCIA Y CA SINUSOIDAL - INDUCTANCIA Y CA SINUSOIDAL- CAPACITANCIA Y CA SINUSOIDAL
+17. Para la figura 16-52, R _ 12 Ω. Para cada uno de los siguientes casos determine
+la corriente o voltaje y grafíquelo.
+
+![16-52 (2)](https://user-images.githubusercontent.com/84458025/131782308-4eec6d3f-7329-46ea-a460-2b3d45bec920.png)
+
+![17 1 (2)](https://user-images.githubusercontent.com/84458025/131782403-c0668119-3c69-4610-bff6-95808070c337.png)
+
+![17 2 (2)](https://user-images.githubusercontent.com/84458025/131782496-0456b18b-afa2-466e-809b-a17749473ef5.png)
+
+19. Dos resistores R_1=10kΩ y R_2=12.5kΩ están en serie. Si i=14.7 sin⁡〖(ωt+39°)〗mA,
+
+a. ¿Cuánto valen v_R1 y v_R2?
+
+![17 2 (3)](https://user-images.githubusercontent.com/84458025/131782586-b6845b34-e746-45bd-a866-2aa96001a83a.png)
+
+b. Calcule v_T=v_R1+v_R2 y compárelo con v_(T )calculada a partir de v_T=iR_T
+
+![19 (2)](https://user-images.githubusercontent.com/84458025/131782697-ac4e64ae-7afb-4c6a-8a58-6a562d66dba1.png)
+
+21. Para la figura 16-53, V_m=10 V e I_m=5 A. Para cada expresión, determine la
+cantidad solicitada.
+
+![16-53 (2)](https://user-images.githubusercontent.com/84458025/131782810-e8fdaeab-857e-4c59-9a88-9acaf408faa4.png)
+
+![21 (2)](https://user-images.githubusercontent.com/84458025/131782986-a66e2c3d-2d6e-472e-899b-1881465641e9.png)
+
+23. Para la figura 16-53, e=100 sin⁡〖ωt 〗y L = 0.5 H. Determine i_L a. . .
+
+![16-53 (2)](https://user-images.githubusercontent.com/84458025/131783300-8e4458e5-7922-4434-9762-3fd84648a8ae.png)
+
+![23 1 (2)](https://user-images.githubusercontent.com/84458025/131783112-bd4a4f5e-6fc4-4020-8cbd-2b7a3414d18d.png)
+
+![23 2 (2)](https://user-images.githubusercontent.com/84458025/131783276-56fd82e9-7ce5-4796-b568-1f73e67ee88c.png)
+
+25. Para la figura 16-53, si
+
+![16-53 (2)](https://user-images.githubusercontent.com/84458025/131783316-d3b56dcd-8f72-474a-918a-4ba97045da41.png)
+
+a. v_L=40 sin⁡〖(ωt+30°)V,i_L=364 sin⁡〖(ωt-60°)mA 〗 〗yL=2mH , ¿cual
+es el valor de f?
+
+![25 A (2)](https://user-images.githubusercontent.com/84458025/131783502-2278d448-b67c-4b36-b64d-faac2f25fd7c.png)
+
+b.i_L=250 sin⁡〖(ωt+40°)μA,〖 v〗_L=40 sin⁡〖(ωt+θ)V,y f=500 kHz 〗 〗, ¿cual
+es el valor de L y v?
+
+![25 B1 (2)](https://user-images.githubusercontent.com/84458025/131783593-e19e9006-9f7d-4684-9289-a45edc97110b.png)
+
+![25 B2 (2)](https://user-images.githubusercontent.com/84458025/131783667-450e980a-1eb3-446f-bd31-2fea09999576.png)
+
+27. ¿Cuál es la reactancia de un capacitor de 5 = μF
+
+![27 (2)](https://user-images.githubusercontent.com/84458025/131783765-662c0434-7ccb-4d33-b798-3cfb108c392a.png)
+
+29. Para la figura 16-54, C = 50 μF.
+
+![16-54 (2)](https://user-images.githubusercontent.com/84458025/131783960-57fcb759-d50b-461e-878c-b716e3d61b26.png)
+
+a. v_C=100 sin⁡〖377t V〗, ¿cuánto vale i_C ?
+
+![29 a (2)](https://user-images.githubusercontent.com/84458025/131784102-0f644117-6132-4973-9060-f23f7ceb019d.png)
+
+b.i_C=10 sin⁡〖(2π×400T-60°)〗, ¿cuánto vale  v_C?
+
+![29 b (2)](https://user-images.githubusercontent.com/84458025/131784211-3c49d219-0fd8-4e14-bc76-fec4a5277488.png)
+
 ### 3.2.7 EL CONCEPTO DE IMPEDANCIA 
+31. Determine la impedancia de cada elemento de circuito de la figura 16-55.
+
+![16-55 (2)](https://user-images.githubusercontent.com/84458025/131784582-f049ba89-7b6e-4449-8764-b640ffe235f1.png)
+
+![29 b (3)](https://user-images.githubusercontent.com/84458025/131784650-b956373a-f3e2-402d-ae6b-02b4bbb2c889.png)
+
+![31 (2)](https://user-images.githubusercontent.com/84458025/131784762-93949d2e-4536-4f00-b381-744bd534ce65.png)
+
+33. Si la corriente a través de cada elemento de circuito de la figura 16-56 es
+0.5 A∠0°:
+
+![16-56 (2)](https://user-images.githubusercontent.com/84458025/131784865-17f3c3e6-8ce7-46ca-98b3-ab21968c1fa1.png)
+
+a. Determine cada voltaje en forma fasorial.
+
+![33 a (2)](https://user-images.githubusercontent.com/84458025/131784937-6a856aaf-9c81-42a3-b01d-95f24abcc153.png)
+
+b. Exprese cada voltaje en forma del dominio del tiempo.
+
+![33 b (2)](https://user-images.githubusercontent.com/84458025/131785094-c17e0746-a689-48de-86d7-4249da66b3f0.png)
+
+35. Para cada circuito de la figura 16-57 determine la incógnita.
+
+![16-57 (2)](https://user-images.githubusercontent.com/84458025/131785238-189fce7d-9420-4d48-9d66-281c7106f6da.png)
+
+![33 b (3)](https://user-images.githubusercontent.com/84458025/131785145-4e0dbae0-5ebc-45ea-8308-3553e1f28b1c.png)
+
+![35 (2)](https://user-images.githubusercontent.com/84458025/131785306-2fd0a0d2-96c9-44aa-92d7-24e8a3ea7a47.png)
+
 ### 3.2.8 ANÁLISIS DE CIRCUITOS DE CA POR COMPUTADORA
+
+37. Construya el circuito de la figura 16-58 en la pantalla. Use la fuente de ca de
+Sources Parts y el amperímetro de Indicators Parts. Haga doble clic en el
+símbolo del amperímetro y establezca Mode en AC. Dé clic en el interruptor
+ON/OFF para energizar el circuito. Compare la lectura medida con el valor
+teórico.
+
+![16-58 (2)](https://user-images.githubusercontent.com/84458025/131785552-d089ed0b-4624-4de0-acc2-3340254c3073.png)
+
+39. Construya el circuito de la figura 16-53 en la pantalla. Use una fuente de
+100 V∠0, L  0.2 H, y f  50 Hz. Resuelva para la corriente IL (magnitud
+y ángulo). Véase la nota abajo.
+
+![WhatsApp Image 2021-09-01 at 10 23 23 PM](https://user-images.githubusercontent.com/84458025/131785645-f05ae6c9-e0f8-46f7-9ebe-71c9a26aa53b.jpeg)
+
+41. Para el circuito del problema 39, grafique la magnitud de la corriente contra la
+frecuencia desde f  1 Hz hasta f  20 Hz. Mida la corriente a 10 Hz y verifique
+con su calculadora.
+
+![WhatsApp Image 2021-09-02 at 12 15 18 AM](https://user-images.githubusercontent.com/84458025/131785842-80e0bc9f-ed68-4f7f-b77a-74b1f222fca5.jpeg)
+
+
 ## 4.CONCLUSIONES
 ## 4.1 FUNDAMENTOS DE CA 
 - 
