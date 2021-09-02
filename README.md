@@ -62,7 +62,13 @@ el concepto de impedancia.
 ![mapa 7 (2)](https://user-images.githubusercontent.com/84431598/131701101-af98ac2d-f24e-4f5f-a0c3-518ef1b2c0ca.png)
 
 ### 2.2.3 CIRCUITOS R, L Y C CON EXCITACIÓN SINUSOIDAL 
+
+![MAP (2)](https://user-images.githubusercontent.com/84458025/131790011-0fe4e37d-65c4-40d2-9a7c-dc73a8005fab.png)
+
 ### 2.2.4 RESISTENCIA Y CA SINUSOIDAL 
+
+![MAP2 (2)](https://user-images.githubusercontent.com/84458025/131790124-f685cdcb-348d-463c-967e-075bba3ca710.png)
+
 ### 2.2.5 INDUCTANCIA Y CA SINUSOIDAL 
 ### 2.2.6 CAPACITANCIA Y CA SINUSOIDAL 
 ### 2.2.7 EL CONCEPTO DE IMPEDANCIA 
