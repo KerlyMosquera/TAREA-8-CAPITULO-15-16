@@ -26,12 +26,30 @@ el concepto de impedancia.
 ## 2.MARCO TEÓRICO (RESUMEN)
 ## 2.1 FUNDAMENTOS DE CA 
 ### 2.1.1 INTRODUCCIÓN 
+
+![Introducción](https://user-images.githubusercontent.com/84425276/131883490-08949897-ba21-4186-9786-0b99d826e18f.png)
+
 ### 2.1.2 GENERACIÓN DE VOLTAJES DE CA 
+
+![Generación de voltajes de ca](https://user-images.githubusercontent.com/84425276/131883512-313aaa09-4b74-4d9c-884a-bab44f0506ec.png)
+
 ### 2.1.3 CONVENCIÓN DE VOLTAJE Y CORRIENTE PARA CA 
 ### 2.1.4 FRECUENCIA, PERIODO, AMPLITUD Y VALOR PICO 
+
+![15-3 Convención de voltaje y corriente para ca 15-4 Frecuencia, periodo, amplitud y valor pico](https://user-images.githubusercontent.com/84425276/131883563-4d019ac3-b1c8-4050-af99-850eb8be009b.png)
+
 ### 2.1.5  RELACIONES ANGULAR Y GRÁFICA PARA LAS ONDAS SENO 
+
+![Relaciones angular y gráfica para las ondas seno](https://user-images.githubusercontent.com/84425276/131883592-4e7c36c4-973c-445a-a608-b7a3d986a2b1.png)
+
 ### 2.1.6 VOLTAJES Y CORRIENTES COMO FUNCIONES DEL TIEMPO 
+
+![Voltajes y corrientes como funciones del tiempo](https://user-images.githubusercontent.com/84425276/131883624-6fbfc77e-3f04-4f33-9cf2-05b5456bb9ed.png)
+
 ### 2.1.7 INTRODUCCIÓN A LOS FASORES 
+
+![Introducción a los fasores](https://user-images.githubusercontent.com/84425276/131883640-dee9403f-71f8-450e-91ef-ee1a77c0bd21.png)
+
 ### 2.1.8 FORMAS DE ONDA DE CA Y VALOR PROMEDIO 
 
 ![mapa1 (2)](https://user-images.githubusercontent.com/84431598/131700039-d4338bc6-2609-405c-9de6-03737a1c1b02.png)
