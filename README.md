@@ -147,8 +147,73 @@ c. 5T = 80 µs
 
 ![image](https://user-images.githubusercontent.com/84425276/131772860-b8f1a0bd-39eb-4f6f-9435-8d9ce0c8e247.png)
 
+9. Determine el periodo y la frecuencia de la forma de onda de la figura 15-77.
+
+![image](https://user-images.githubusercontent.com/84425276/131883774-5063d343-a15c-4315-bfb0-16d818d8af69.png)
+
+![image](https://user-images.githubusercontent.com/84425276/131883802-805e6316-cfe9-4499-bb03-a66c25720147.png)
+
+11. ¿Cuál es el voltaje pico a pico para la figura 15-77? ¿Cuál es la corriente pico a pico de la figura 15-78?
+
+![image](https://user-images.githubusercontent.com/84425276/131883828-1f292eea-8316-4842-bb0b-46357ac9b25e.png)
+
+![image](https://user-images.githubusercontent.com/84425276/131883863-a7bfc5df-ac33-4d5d-aec5-1607484e09bb.png)
+
+![image](https://user-images.githubusercontent.com/84425276/131883875-e8fb4d66-c55d-4b13-8879-0998827a2007.png)
+
+![image](https://user-images.githubusercontent.com/84425276/131883899-208dd713-8d7d-4f1f-b752-88a3abc3a2f5.png)
+
+13. ¿A través de cuántos ciclos pasa en 2 minutos y 57 segundos una onda cuadrada con una frecuencia de 847 Hz?
+
+![image](https://user-images.githubusercontent.com/84425276/131883947-3b31984b-e9e6-4a1b-b672-049bbc23fb08.png)
+
+15. Dos formas de onda tienen periodos de T1 y T2 respectivamente. Si T1 = 0.25T2 y f1 = 10 kHz, ¿cuáles son los valores de T1, T2 y f2?
+
+![image](https://user-images.githubusercontent.com/84425276/131884042-cde803f4-b25b-4985-b12c-ea25d0bd9f6a.png)
+
 ### 3.1.5 RELACIONES ANGULAR Y GRÁFICA PARA LAS ONDAS SENO 
+
+17. Dado el voltaje v = Vm sen α. Si Vm = 240 V, ¿qué valor tiene v cuando α = 37°?
+
+![image](https://user-images.githubusercontent.com/84425276/131884115-fc10691a-09af-43db-9ffc-b111f57f4f64.png)
+
+19. Un voltaje sinusoidal tiene un valor de 50 V cuando α = 150°. ¿Qué valor tiene Vm?	
+
+![image](https://user-images.githubusercontent.com/84425276/131884176-2db730ba-9219-41c1-b3ca-c64f9ca018c2.png)
+
+21. Convierta los siguientes ángulos de grados a radianes: 
+
+![image](https://user-images.githubusercontent.com/84425276/131884310-8527580d-0ab8-486b-b180-d25cba9b8888.png)
+
+23. Si el periodo de la forma de onda en la figura 15-80 es 180 ms, calcule la corriente en t = 30, 75, 140 y 315 ms.
+
+![image](https://user-images.githubusercontent.com/84425276/131884348-a4814bac-6c72-415a-b4ed-2491cf4b4674.png)
+
+![image](https://user-images.githubusercontent.com/84425276/131884400-3a7a7190-7096-4635-9b53-7179f9a8c4e9.png)
+
+25. Una onda seno de 20 kHz tiene un valor de 50 volts cuando t = 5 µs. Determine Vm y dibuje la forma de onda.
+
+![image](https://user-images.githubusercontent.com/84425276/131884472-e38594b2-b40d-4147-854f-aa74a397ac91.png)
+
+
 ### 3.1.6 VOLTAJES Y CORRIENTES COMO FUNCIONES DEL TIEMPO 
+
+27. Calcule w en radianes por segundo para cada uno de los siguientes casos: 
+
+![image](https://user-images.githubusercontent.com/84425276/131884566-0e6b88ca-4cd6-426c-a167-2f4322d4711a.png)
+
+29. Determine las ecuaciones para las ondas seno con lo siguiente: 
+
+![image](https://user-images.githubusercontent.com/84425276/131884659-b10acb7a-7a33-418f-97a0-dd7e2017d528.png)
+
+31. Una onda seno tiene un voltaje pico a pico de 40 V y T = 50 ms. Determine su ecuación.
+
+![image](https://user-images.githubusercontent.com/84425276/131884705-cc614e11-a5c8-4280-bac1-0047902aeb5f.png)
+
+33. Dada i = 47 sen 8260t mA, determine la corriente cuando t = 0 s, 80 µs, 410 µs y 1200 µs.
+
+![image](https://user-images.githubusercontent.com/84425276/131884774-7e1dab00-3afa-447d-97c7-95b24223dffe.png)
+
 37. Dada v = 5 sen(ωt+45°)Si  ω= 20π rad/s, ¿qué valor tiene v cuando t =
 20, 75 y 90 ms?
 
