@@ -70,6 +70,21 @@ el concepto de impedancia.
 ## 3.EXPLICACÍON Y RESOLUCIÓN DE LOS EJERCICIOS
 ## 3.1 FUNDAMENTOS DE CA 
 ### 3.1.1 INTRODUCCIÓN 
+1. ¿A qué se refiere “voltaje de ca” y “corriente de ca”?
+
+El voltaje de ca es aquel cuya polaridad varía periódicamente entre positiva y negativa. La corriente de ca es aquella cuya dirección varía periódicamente.
+
+3. a. ¿Qué significa valor instantáneo?
+
+La magnitud de una forma de onda en cualquier instante.
+
+b. Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3, 4, 5, 6, 7 y 8 ms.
+
+![image](https://user-images.githubusercontent.com/84425276/131771183-c4b145c9-fa8f-4a84-9afd-14e3bb243d72.png)
+
+![image](https://user-images.githubusercontent.com/84425276/131771214-68e0b9e7-07d3-42db-ad81-c0936c165e62.png)
+
+
 ### 3.1.2 GENERACIÓN DE VOLTAJES DE CA 
 ### 3.1.3 CONVENCIÓN DE VOLTAJE Y CORRIENTE PARA CA 
 ### 3.1.4 FRECUENCIA, PERIODO, AMPLITUD Y VALOR PICO 
