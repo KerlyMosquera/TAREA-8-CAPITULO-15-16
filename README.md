@@ -70,9 +70,21 @@ el concepto de impedancia.
 ![MAP2 (2)](https://user-images.githubusercontent.com/84458025/131790124-f685cdcb-348d-463c-967e-075bba3ca710.png)
 
 ### 2.2.5 INDUCTANCIA Y CA SINUSOIDAL 
-### 2.2.6 CAPACITANCIA Y CA SINUSOIDAL 
+
+![inductancia (2)](https://user-images.githubusercontent.com/84458025/131879506-49d80334-1fad-489b-8784-0b9c7d9def9d.png)
+
+### 2.2.6 CAPACITANCIA Y CA SINUSOIDAL
+
+![capacitancia (2)](https://user-images.githubusercontent.com/84458025/131879340-712172e9-f5e6-47e0-9808-61ae04a107e5.png)
+
 ### 2.2.7 EL CONCEPTO DE IMPEDANCIA 
+
+![impedancia (2)](https://user-images.githubusercontent.com/84458025/131879207-63689f5e-860e-4724-9bea-d2a64c168194.png)
+
 ### 2.2.8 ANÁLISIS DE CIRCUITOS DE CA POR COMPUTADORA
+
+![ana (2)](https://user-images.githubusercontent.com/84458025/131879047-d77b666b-97eb-469d-bcd2-6f2e5602195c.png)
+
 ## 3.EXPLICACÍON Y RESOLUCIÓN DE LOS EJERCICIOS
 ## 3.1 FUNDAMENTOS DE CA 
 ### 3.1.1 INTRODUCCIÓN 
