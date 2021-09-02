@@ -74,6 +74,8 @@ el concepto de impedancia.
 
 El voltaje de ca es aquel cuya polaridad varía periódicamente entre positiva y negativa. La corriente de ca es aquella cuya dirección varía periódicamente.
 
+### 3.1.2 GENERACIÓN DE VOLTAJES DE CA 
+
 3. a. ¿Qué significa valor instantáneo?
 
 La magnitud de una forma de onda en cualquier instante.
@@ -84,10 +86,31 @@ b. Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/84425276/131771214-68e0b9e7-07d3-42db-ad81-c0936c165e62.png)
 
-
-### 3.1.2 GENERACIÓN DE VOLTAJES DE CA 
 ### 3.1.3 CONVENCIÓN DE VOLTAJE Y CORRIENTE PARA CA 
+
+5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t = 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
+
+![image](https://user-images.githubusercontent.com/84425276/131772723-88b49eab-c716-41d3-8450-cfbbbfc8c9a6.png)
+
+![image](https://user-images.githubusercontent.com/84425276/131772735-abc9ce79-3aa2-429c-85cc-7733b621b142.png)
+
+![image](https://user-images.githubusercontent.com/84425276/131772761-22d032f7-b361-4b12-96c2-7d52961cf113.png)
+
 ### 3.1.4 FRECUENCIA, PERIODO, AMPLITUD Y VALOR PICO 
+
+7. Para cada uno de los siguientes, determine la frecuencia: 
+a. T = 0.5 s 
+
+![image](https://user-images.githubusercontent.com/84425276/131772802-a10af36a-31e3-4cfc-9c57-48e22380fe01.png)
+
+b. T = 100 ms 
+
+![image](https://user-images.githubusercontent.com/84425276/131772834-4e8400ae-2b0d-4893-9410-bc25ce88aab6.png)
+
+c. 5T = 80 µs
+
+![image](https://user-images.githubusercontent.com/84425276/131772860-b8f1a0bd-39eb-4f6f-9435-8d9ce0c8e247.png)
+
 ### 3.1.5 RELACIONES ANGULAR Y GRÁFICA PARA LAS ONDAS SENO 
 ### 3.1.6 VOLTAJES Y CORRIENTES COMO FUNCIONES DEL TIEMPO 
 37. Dada v = 5 sen(ωt+45°)Si  ω= 20π rad/s, ¿qué valor tiene v cuando t =
