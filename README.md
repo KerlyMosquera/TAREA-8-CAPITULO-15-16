@@ -275,6 +275,9 @@ tiempos en los cuales v alcanza 0 V, 23 V y - 23V.
 - 
 ## 4.2 ELEMENTOS R, L Y C Y EL CONCEPTO DE IMPEDANCIA 
 ## 5.VIDEO
+
+https://youtu.be/Jstpet7hOXo
+
 ## 6.BIBLIOGRAFÍA
 - Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF ,México: Pearson Educación.
 - Roobins, A y Miller, W. (2007). *Análisis de circuitos teoría y práctica (4ta ed),* México DF, México: Cegange Learning.
