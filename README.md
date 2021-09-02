@@ -548,24 +548,23 @@ con su calculadora.
 
 ![WhatsApp Image 2021-09-02 at 12 15 18 AM](https://user-images.githubusercontent.com/84458025/131785842-80e0bc9f-ed68-4f7f-b77a-74b1f222fca5.jpeg)
 
+## 4.VIDEO
 
-## 4.CONCLUSIONES
-## 4.1 FUNDAMENTOS DE CA
+https://youtu.be/Jstpet7hOXo
+
+## 5.CONCLUSIONES
+## 5.1 FUNDAMENTOS DE CA
 - Los fasores proporcionan un método gráfico para representar cantidades que tienen tanto magnitud como dirección (posición angular). Los fasores son especialmente útiles para representar ondas seno en función de su magnitud y su ángulo de fase, y también para analizar los circuitos reactivos
 - El valor instantáneo de la onda seno en cualquier punto es igual a la distancia vertical
 desde la punta del fasor hasta el eje horizontal.
 - Un ciclo de una onda seno se describe cuando un fasor gira 360 grados o 2pi radianes. Mientras más rápido gira, más rápido se describe el ciclo de la onda seno. Por tanto, el periodo y la frecuencia están relacionados con la velocidad de rotación del fasor. La velocidad de rotación se llama velocidad angular y se designa mediante v (la letra minúscula griega omega).
 - El osciloscopio es básicamente un dispositivo de visualización que traza, en su pantalla, una gráfica de una señal eléctrica medida. En la mayoría de las aplicaciones, la gráfica muestra cómo cambian las señales con el tiempo. El eje vertical de la pantalla de visualización representa voltaje, y el eje horizontal representa tiempo. Se puede medir la amplitud, el periodo y la frecuencia de una señal por medio de un osciloscopio.
-## 4.2 ELEMENTOS R, L Y C Y EL CONCEPTO DE IMPEDANCIA
+## 5.2 ELEMENTOS R, L Y C Y EL CONCEPTO DE IMPEDANCIA
 - La reactancia inductiva (XL) causa que la corriente total se retrase con respecto al voltaje aplicado. La reactancia capacitiva (XC) tiene el efecto opuesto: provoca que la corriente se adelante con respecto al voltaje. Por tanto, XL y XC tienden a contrarrestarse entre sí. Cuando son iguales, se eliminan y la reactancia total es de cero.
 - Se puede concluir que  la reactancia inductiva es más grande que la capacitiva, el circuito se muestra inductivo y la corriente se retrasa al voltaje aplicado. Cuando la reactancia capacitiva es más grande, el circuito se muestra capacitivo y la corriente se adelanta al voltaje aplicado
 - La reactancia capacitiva varía inversamente con la frecuencia y la reactancia inductiva varía directamente con la frecuencia.
 - La forma de onda sinusoidal u onda seno es el tipo fundamental de corriente alterna (ca) y voltaje alterno. También se conoce como onda sinusoidal o, simplemente, sinusoide. El servicio eléctrico provisto por la compañía de electricidad es en la forma de voltaje y corriente sinusoidal. Además, otros tipos de formas de onda repetitivas se componen de muchas ondas seno individuales llamadas armónicas.
 - Cinco formas de expresar el valor de una onda seno en función de su magnitud de voltaje o de su magnitud de corriente son los valores instantáneos pico, pico a pico, rms, y promedio.
-
-## 5.VIDEO
-
-https://youtu.be/Jstpet7hOXo
 
 ## 6.BIBLIOGRAFÍA
 - Floyd, T. (2007). *Principios de circuitos eléctricos (8va ed),* México DF ,México: Pearson Educación.
