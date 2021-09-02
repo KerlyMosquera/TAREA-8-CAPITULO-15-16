@@ -450,6 +450,9 @@ teórico.
 
 ![16-58 (2)](https://user-images.githubusercontent.com/84458025/131785552-d089ed0b-4624-4de0-acc2-3340254c3073.png)
 
+![image](https://user-images.githubusercontent.com/84458025/131881497-398696a4-4c67-491f-be9a-42205708bda5.png)
+
+
 39. Construya el circuito de la figura 16-53 en la pantalla. Use una fuente de
 100 V∠0, L  0.2 H, y f  50 Hz. Resuelva para la corriente IL (magnitud
 y ángulo). Véase la nota abajo.
